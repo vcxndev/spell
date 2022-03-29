@@ -12,10 +12,9 @@ The command is just:
 
 ```
 ./spell (the word that you want to be spelled)
-
 ```
 
-#FAQ
+# FAQ
 
 >Why did you write the README.md in English if the program spells only Turkish words?
 
