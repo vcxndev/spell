@@ -16,7 +16,7 @@ The command is just:
 
 # FAQ
 
->Why did you write the README.md in English if the program spells only Turkish words?
+>Why did you write the README.md in English if the program only spells Turkish words?
 
 idk.
 
