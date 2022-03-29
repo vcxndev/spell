@@ -4,7 +4,7 @@
 
 This is a simple command-line spelling app for **TURKISH** (I have not tried it with other languages) that I made because my teacher wanted me to do it. I have not tested it with any kind of dictionary.
 
-## How to I use it? 
+## How to use it? 
 
 It takes in only one input word but probably you can change that easily if you are not a complete beginner but I am lazy so it is up to you.
 
