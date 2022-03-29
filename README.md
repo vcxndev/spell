@@ -26,4 +26,4 @@ Probably there is a LOT of resources out there but I just thought about it consi
 
 >Can I use it in my project?
 
-Why would you? You could probably do a better impression or use a dictionary.
+Why would you? You could probably do a better implementation or use a dictionary.
