@@ -1,44 +1,11 @@
 #include "spell.h"
 
 bool isVowel(char& ch) {
-	switch (ch) {
-	case 'A':
+	static std::string search = "aeıiuüoöAEIİUÜOÖ";
+	if (search.find(ch) != -1) {
 		return true;
-	case 'E':
-		return true;
-	case 'I':
-		return true;
-	case 'İ':
-		return true;
-	case 'O':
-		return true;
-	case 'Ö':
-		return true;
-	case 'U':
-		return true;
-	case 'Ü':
-		return true;
-
-	case 'a':
-		return true;
-	case 'e':
-		return true;
-	case 'ı':
-		return true;
-	case 'i':
-		return true;
-	case 'o':
-		return true;
-	case 'ö':
-		return true;
-	case 'u':
-		return true;
-	case 'ü':
-		return true;
-
-	default:
-		return false;
 	}
+	return false;
 }
 
 std::vector<std::string> spell(char* word) {
